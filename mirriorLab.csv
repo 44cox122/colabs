@@ -1,23 +1,16 @@
 ﻿Date,Condition,Block,Bin Selected,Bin hit
 1118201992912AM,B2,primary_target_block,BinHit,untaggedBin
 1118201992921AM,B2,primary_target_block,BinHit,primaryBin
-1118201992926AM,PrimaryBinInvert,TargetSyllable=ba,,
 1118201992927AM,B2,primary_target_block,BinHit,untaggedBin
-1118201992928AM,SecondaryTaskStart,Strategy=1,,
 1118201992937AM,B2,primary_target_block,BinHit,untaggedBin
 1118201992943AM,B2,secondary_target_block,BinHit,secondaryBin
 1118201992946AM,PrimaryBinInvert,TargetSyllable=ba,,
-1118201992951AM,SecondaryTaskStart,Strategy=1,,
 1118201992953AM,B2,primary_target_block,BinHit,primaryBin
 1118201992956AM,PrimaryBinInvert,TargetSyllable=ba,,
 1118201993000AM,B2,secondary_target_block,BinHit,secondaryBin
 1118201993008AM,B2,primary_target_block,BinHit,untaggedBin
-1118201993013AM,SecondaryTaskStart,Strategy=1,,
 1118201993017AM,B2,primary_target_block,BinHit,secondaryBin
 1118201993022AM,B2,secondary_target_block,BinHit,secondaryBin
-,,,,
-,,,,
-,,,,
 1118201993233AM,B3,primary_target_block,BinHit,untaggedBin
 1118201993245AM,B3,primary_target_block,BinHit,untaggedBin
 1118201993249AM,PrimaryBinInvert,TargetSyllable=ba,,
@@ -36,7 +29,6 @@
 1118201993341AM,B3,secondary_target_block,BinHit,secondaryBin
 1118201993352AM,B3,primary_target_block,BinHit,untaggedBin
 1118201993357AM,B3,primary_target_block,BinHit,untaggedBin
-,,,,
 1118201993546AM,B1,primary_target_block,BinHit,untaggedBin
 1118201993555AM,B1,primary_target_block,BinHit,primaryBin
 1118201993557AM,SecondaryTaskStart,Strategy=0,,
